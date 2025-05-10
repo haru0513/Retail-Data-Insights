@@ -8,6 +8,7 @@ The structure uses four core tables to model fundamental retail workflows.
 3. products
 4. order_items
 ## Entity-Relationship model
+<img width="629" alt="ER for retail_db" src="https://github.com/user-attachments/assets/99ab378a-45f5-4e5d-9370-eaefdc327158" />
 
 ## Extracted KPIs:
 - Monthly sales trend (or "Month-over-month sales performance")
