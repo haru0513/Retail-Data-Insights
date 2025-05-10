@@ -17,5 +17,7 @@ The structure uses four core tables to model fundamental retail workflows.
 - Best-selling products ranking (or "Top products by sales volume")
 
 ## Visualization(Dashboard)
+<img width="379" alt="retail_db_dashboard" src="https://github.com/user-attachments/assets/da1a5c5c-ef26-4d54-9fb7-707dc850d484" />
+
 
   
