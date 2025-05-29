@@ -2,7 +2,9 @@
 ## Business Task
 This project involves creating a fictional retail database, extracting and analyzing KPIs using SQL, and visualizing the data in Power BI.
 ## Why This Theme
-I chose the 'Retail Data Insights' theme because I currently work in the retail industry, and this project helped me connect data analysis with real-world marketing and sales scenarios from my own experience. This project allowed me to design a fictional retail database and apply SQL to extract and analyze key performance indicators (KPIs) such as monthly sales trends, popular products, and average revenue per customer. By visualizing these insights in Power BI, I was able to simulate real-world business reporting scenarios and strengthen my end-to-end data analysis skills.
+I chose the 'Retail Data Insights' theme because I currently work in the retail industry, and this project helped me connect data analysis with real-world marketing and sales scenarios from my own experience. This project allowed me to design a fictional retail database and apply SQL to extract and analyze key performance indicators (KPIs) such as monthly sales trends, popular products, and average revenue per customer. 
+## Tools Used
+- SQL
 ## Database Design
 The structure uses four core tables to model fundamental retail workflows.
 1. customers
